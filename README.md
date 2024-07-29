@@ -6,15 +6,18 @@ Custom Utility tools is a useful tool that allows the developers of an app to us
 
 ### Requirements
 
-1. Atleast 36 GB Storage (base)
+Minimum:
+
+1. Atleast 10 GB of Storage
 2. 8GB RAM
 3. A GPU (Including builtin gpus)
-4. 4+ Core CPU, atleast 8 threads and 1.4 Ghz
+4. 4 Core CPU, atleast 8 threads and 1.4 Ghz
 5. Python 3.9+
 6. Ollama (install by [ollama.ai](https://ollama.ai))
-
----
-
-## Storage
-
-To be honest, 36 GB for Custom Utility tools is a lot! But, due to many functions, you need atleast 36 GB for all the features. But as long as you dont use face recognition,  ollama, and nltk you can just use 20 GB. The reason why it is so big is due to the massive models in face recognition, and ollama. For example, in ollama, llama3 is almost 5 GB by itself! Face recognition uses almost 7 GB, and NLTK uses 4 GB.
+   Recommended:
+7. 60 GB
+8. 32 GB of RAM
+9. NVIDIA 2080 Super
+10. 8-core CPU, 8 threads, and  3 Ghz
+11. Python 3.9+
+12. Ollama (install by [ollama.ai](https://ollama.ai))
