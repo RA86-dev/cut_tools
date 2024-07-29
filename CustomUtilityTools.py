@@ -3474,9 +3474,8 @@ class CustomUtilityTools:
             notification.notify(
                 title=str(notification_title),
                 message=str(notification_message),
-                app_name=app_nm
-                timeout=10
-            )
+                app_name=app_nm,
+                timeout=10)
             return True
 
     class USBDevice:
